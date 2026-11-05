@@ -5,7 +5,7 @@ Kerala, India
 
 I build web applications and explore cloud, AI/ML, IoT, and distributed systems.
 
-[LinkedIn](https://www.linkedin.com/in/sayaan-v/) · [Email](mailto:vsayaan@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/sayaan-v/) · [Email](mailto:vsayaan@gmail.com) · [Portfolio](https://sayaanv.github.io/portfolio/) 
 
 ## About
 
