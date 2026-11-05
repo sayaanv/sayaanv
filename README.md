@@ -25,11 +25,10 @@ I build web applications and explore cloud, AI/ML, IoT, and distributed systems.
 
 ## Selected Projects
 
-- **Scalable Misinformation Detection Platform** — Python, TensorFlow, Apache Kafka, Docker, AWS EC2, Nginx
-- **IoT Home Automation Platform** — React.js, Firebase, REST APIs, JWT, Docker, AWS EC2, Nginx
-- **Hybrid Blockchain Consensus Protocol** — Python, Blockchain, Distributed Systems, System Simulation
-
-Project repositories and documentation will be added here as they are published.
+- [E-Shopping Management System](https://github.com/sayaanv/E-shopping-management-system) — C++ console shopping cart with product categories, quantities, and running totals.
+- [Hybrid Blockchain Consensus](https://github.com/sayaanv/Hybrid-Blockchain-Consensus) — Academic simulation project exploring transaction routing with Proof of Work and Proof of Stake.
+- [Fake News Propagation Analysis](https://github.com/sayaanv/Analysis-of-Temporal-Patterns-in-Fake-News-Propagation) — Academic project studying temporal engagement patterns and news propagation.
+- [Smart Home Automation](https://github.com/sayaanv/Smart-Home-Automation) — IoT project documented as monitoring home sensors and controlling devices through a web dashboard.
 
 ## Certifications
 
